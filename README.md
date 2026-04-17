@@ -15,14 +15,12 @@ git commit -m "docs: adiciona README inicial com instruções de instalação"
 - Git
 - [Insira outra dependência, ex: Node.js, Python, etc.]
 
-### 🔧 Instalação
+# 🎮 Game Selector
 
-Siga os passos abaixo para configurar o ambiente:
+Um site simples para seleção de jogos feito com HTML, CSS .
 
-- 1:ex
-- 2:ex
-- 3:ex
-- 4:ex
+## Como rodar
 
-1. Clone o repositório:
-   https://github.com/jordanhudgens/portfolio-html-site.git
+1. Clone o repositório.
+2. Abra a pasta no VS Code.
+3. Use a extensão Live Server para abrir o `index.html`.
