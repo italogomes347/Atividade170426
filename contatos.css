@@ -1,0 +1,191 @@
+body {
+  background-color: rgb(40, 40, 40);
+}
+.countainer {
+  padding: 10px 30px;
+}
+ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;
+  padding: 16px;
+}
+a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+nav a:hover {
+  color: rgb(17, 0, 250);
+}
+
+.center {
+  text-align: center;
+}
+
+div h1 {
+  color: white;
+}
+nav a:hover {
+  text-decoration: underline;
+  color: rgb(17, 0, 250);
+}
+h3 {
+  color: white;
+}
+footer img {
+  width: 60px;
+  height: 60px;
+}
+footer p {
+  font-size: 20px;
+}
+footer a {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+}
+
+.wat {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.wat p {
+  margin: 0;
+  font-weight: bold;
+  color: white;
+}
+
+.wat {
+  color: #25d366;
+  font-size: 14px;
+}
+.insta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.insta p {
+  margin: 0;
+  font-weight: bold;
+  color: white;
+}
+
+.insta {
+  color: #d840e6;
+  font-size: 14px;
+}
+
+.email {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.email p {
+  margin: 0;
+  font-weight: bold;
+  color: white;
+}
+
+.email {
+  color: #1100ff;
+  font-size: 14px;
+}
+h2 {
+  color: white;
+}
+
+.wat {
+  margin-left: 100px;
+}
+.imgwat {
+  margin-left: 100px;
+}
+.insta {
+  margin-left: 100px;
+}
+.imginsta {
+  margin-left: 100px;
+}
+.email {
+  margin-left: 100px;
+}
+.imgemail {
+  margin-left: 100px;
+}
+h6 {
+  margin-right: 500px;
+}
+h6 {
+  margin-top: -30px;
+}
+
+.todos {
+  margin-left: 770px;
+}
+footer p:hover {
+  text-decoration: underline;
+  color: rgb(17, 0, 250);
+}
+footer .insta:hover {
+  text-decoration: underline;
+  color: rgb(17, 0, 250);
+}
+footer .wat:hover {
+  text-decoration: underline;
+  color: rgb(17, 0, 250);
+}
+footer .email:hover {
+  text-decoration: underline;
+  color: rgb(17, 0, 250);
+}
+.navbar {
+  background-color: rgb(20, 20, 20);
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+}
+.navbar li {
+  margin: 0 20px;
+}
+.navbar ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;
+  padding: 14px;
+}
+.navbar a {
+  font-family: initial;
+  font-size: 22px;
+}
+.navbar {
+  background-color: rgb(20, 20, 20);
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 8;
+  z-index: 1;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+}
+a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.navbar ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  padding: 14px 110px;
+}

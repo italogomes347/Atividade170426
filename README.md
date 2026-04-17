@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Analise de jogos
 
 Uma breve descrição sobre o que este projeto faz e qual o seu objetivo principal.
 
@@ -19,10 +19,10 @@ git commit -m "docs: adiciona README inicial com instruções de instalação"
 
 Siga os passos abaixo para configurar o ambiente:
 
-1:ex
-2:ex
-3:ex
-4:ex
+- 1:ex
+- 2:ex
+- 3:ex
+- 4:ex
 
 1. Clone o repositório:
    https://github.com/jordanhudgens/portfolio-html-site.git
